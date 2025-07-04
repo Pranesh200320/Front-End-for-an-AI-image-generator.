@@ -54,22 +54,12 @@ This project utilizes the Hugging Face Inference API to fetch and display AI-gen
 
 🛠 Setup Instructions
 
-1. Clone the repository:
+1. Set up your API key:
 
-git clone https://github.com/your-username/ai-image-generator-frontend.git
-cd ai-image-generator-frontend
-
-2. Open the project in your browser:
-
-Open index.html directly, OR Use a live server (recommended for development).
-
-3. Set up your API key:
-
-In script.js, replace the API key with your own:
-
-const API_KEY = "hf_XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-
-You can generate a free API key from Hugging Face.
+    In script.js, replace the API key with your own:
+        const API_KEY = "hf_XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    
+    You can generate a free API key from Hugging Face.
 
 ---
 
