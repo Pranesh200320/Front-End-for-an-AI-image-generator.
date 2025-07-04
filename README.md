@@ -9,6 +9,7 @@ It allows users to generate AI-powered images by entering descriptive prompts an
 This project utilizes the Hugging Face Inference API to fetch and display AI-generated images dynamically.
 
 ---
+🚀 Live Demo
 
 🔗 https://pranesh-ai-image-generator.netlify.app/
 
