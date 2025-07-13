@@ -120,6 +120,8 @@ Front-End-AI-Image-Generator/
 
     Front-End Developer
  
-    GitHub:https://github.com/Pranesh200320
+    GitHub: https://github.com/Pranesh200320
+
+    mail id: pranesh200320@gamil.com
 
     ⭐ If you like this project, feel free to give it a star!
