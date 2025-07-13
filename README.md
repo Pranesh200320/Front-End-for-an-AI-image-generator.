@@ -1,4 +1,4 @@
-🌟 AI Image Generator - Frontend
+🌟 Frontend for an AI image generator
 
 ---
 
