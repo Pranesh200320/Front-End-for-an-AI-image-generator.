@@ -55,9 +55,13 @@ This project utilizes the Hugging Face Inference API to fetch and display AI-gen
 📁 Project Structure:
 
 Front-End-AI-Image-Generator/
+
 ├── index.html → Main HTML file
+
 ├── style.css → Styling for layout and design
+
 ├── script.js → JavaScript functionality
+
 └── README.txt →
 
 ---
@@ -83,13 +87,14 @@ Front-End-AI-Image-Generator/
 
     > Stable Diffusion v1.5
 
-Openjourney
+    > Openjourney
 
 ---
 
 📝 Usage Example
 
-    > Describe your imagination in the prompt box.
+    Describe your imagination in the prompt box.
+    
     Example prompts:
 
     "A futuristic city under the ocean with glowing towers."
@@ -115,10 +120,10 @@ Openjourney
 
 👤 Author:
 
-> Pranesh A 
+    Pranesh A 
 
-> Front-End Developer
+    Front-End Developer
+ 
+    GitHub:https://github.com/Pranesh200320
 
-> GitHub:https://github.com/Pranesh200320
-
-⭐ If you like this project, feel free to give it a star!
+    ⭐ If you like this project, feel free to give it a star!
