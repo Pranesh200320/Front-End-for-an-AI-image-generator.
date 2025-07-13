@@ -55,13 +55,9 @@ This project utilizes the Hugging Face Inference API to fetch and display AI-gen
 📁 Project Structure:
 
 Front-End-AI-Image-Generator/
-
 ├── index.html → Main HTML file
-
 ├── style.css → Styling for layout and design
-
 ├── script.js → JavaScript functionality
-
 └── README.txt →
 
 ---
