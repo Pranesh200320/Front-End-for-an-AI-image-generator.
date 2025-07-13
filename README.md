@@ -40,21 +40,31 @@ This project utilizes the Hugging Face Inference API to fetch and display AI-gen
 
 🔧 Technologies Used
 
->>> HTML5
+    > HTML5
 
->>> CSS3
+    > CSS3
 
->>> Vanilla JavaScript (ES6+)
+    > Vanilla JavaScript (ES6+)
 
->>> Font Awesome – Icons
+    > Font Awesome – Icons
 
->>> Hugging Face Inference API – AI image generation
+    > Hugging Face Inference API – AI image generation
+
+---
+
+📁 Project Structure:
+
+Front-End-AI-Image-Generator/
+├── index.html → Main HTML file
+├── style.css → Styling for layout and design
+├── script.js → JavaScript functionality
+└── README.txt →
 
 ---
 
 🛠 Setup Instructions
 
-1. Set up your API key:
+    1. Set up your API key:
 
     In script.js, replace the API key with your own:
         const API_KEY = "hf_XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
@@ -65,13 +75,13 @@ This project utilizes the Hugging Face Inference API to fetch and display AI-gen
 
 🔑 API Models Supported
 
-FLUX.1-dev
+    > FLUX.1-dev
 
-FLUX.1-schnell
+    > FLUX.1-schnell
 
-Stable Diffusion XL Base 1.0
+    > Stable Diffusion XL Base 1.0
 
-Stable Diffusion v1.5
+    > Stable Diffusion v1.5
 
 Openjourney
 
@@ -79,26 +89,36 @@ Openjourney
 
 📝 Usage Example
 
-> Describe your imagination in the prompt box.
-Example prompts:
+    > Describe your imagination in the prompt box.
+    Example prompts:
 
-"A futuristic city under the ocean with glowing towers."
+    "A futuristic city under the ocean with glowing towers."
+ 
+    "A cat wearing a spacesuit floating in space."
 
-"A cat wearing a spacesuit floating in space."
-
-"A magical forest illuminated by thousands of lanterns."
+    "A magical forest illuminated by thousands of lanterns."
 
 
 ✅ Steps:
 
-1. Enter your image description in the prompt field.
+    1. Enter your image description in the prompt field.
 
-2. Select your preferred AI model.
+    2. Select your preferred AI model.
 
-3. Choose the number of images and aspect ratio.
+    3. Choose the number of images and aspect ratio.
 
-4. Click on the Generate button to create your AI-generated images.
+    4. Click on the Generate button to create your AI-generated images.
 
-5. Download images by clicking the download icon.
+    5. Download images by clicking the download icon.
 
 ---
+
+👤 Author:
+
+> Pranesh A 
+
+> Front-End Developer
+
+> GitHub:https://github.com/Pranesh200320
+
+⭐ If you like this project, feel free to give it a star!
